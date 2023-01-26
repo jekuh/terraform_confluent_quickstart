@@ -1,0 +1,3 @@
+owner = "Jude"
+confluent_cloud_admin_api_key    = "XXXXXXXXXXXXXXXX"
+confluent_cloud_admin_api_secret = "****************************************************************"
